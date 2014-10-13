@@ -1,0 +1,6 @@
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculatorSpecs.csprojResolveAssemblyReference.cache
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculatorSpecs.dll
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculatorSpecs.pdb
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\StringCalculatorSpecs.dll
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\StringCalculatorSpecs.pdb
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\AutoTest.Net\NSpec.dll

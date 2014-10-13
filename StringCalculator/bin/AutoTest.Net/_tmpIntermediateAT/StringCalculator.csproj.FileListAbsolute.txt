@@ -1,0 +1,5 @@
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculator\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculator.csprojResolveAssemblyReference.cache
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculator\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculator.dll
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculator\bin\AutoTest.Net\_tmpIntermediateAT\StringCalculator.pdb
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculator\bin\AutoTest.Net\StringCalculator.dll
+c:\users\jason.underhill\documents\visual studio 2013\Projects\StringCalculator\StringCalculator\bin\AutoTest.Net\StringCalculator.pdb
