@@ -4,3 +4,5 @@ C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\
 C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\StringCalculatorSpecs\obj\Debug\StringCalculatorSpecs.csprojResolveAssemblyReference.cache
 C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\StringCalculatorSpecs\obj\Debug\StringCalculatorSpecs.dll
 C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\StringCalculatorSpecs\obj\Debug\StringCalculatorSpecs.pdb
+C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\Debug\StringCalculator.dll
+C:\Users\jason.underhill\Documents\Visual Studio 2013\Projects\StringCalculator\StringCalculatorSpecs\bin\Debug\StringCalculator.pdb
